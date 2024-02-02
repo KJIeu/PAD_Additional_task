@@ -26,7 +26,7 @@ cursor = db_connection.cursor()
 
 
 headers = {
-    'X-RapidAPI-Key': "a0469d4c3bmsh20229adb5890402p170711jsn0b4b629e81dd",
+    'X-RapidAPI-Key': "",#here should be api key
     'X-RapidAPI-Host': "livescore-football.p.rapidapi.com"
 }
 
